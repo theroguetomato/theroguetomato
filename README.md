@@ -1,9 +1,12 @@
-## Hi there 👋
+Hello I'm Paris Vaughn 👋
 
+<(Linkedln)>
+[Brief Introduction]
+I currently an Account Manager for Keurig Dr. Pepper who is pursuing my passion for Cybersecurity.
 <!--
 **theroguetomato/theroguetomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[Brief Introduction]
+I currently an Account Manager for Keurig Dr. Pepper who is pursuing
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
